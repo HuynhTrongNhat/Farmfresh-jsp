@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="final_project:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a044964f-9cb4-4e0d-a275-b83095cd9fc8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1TVk87Z1n6Tyaiu9QqeqwcyGpHC" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\farmfresh-jsp\web\WEB-INF" />
+      <recent name="D:\farmfresh-jsp\web\admin" />
+      <recent name="D:\farmfresh-jsp\web" />
+      <recent name="D:\farmfresh-jsp\web\admin\img" />
+      <recent name="D:\farmfresh-jsp\web\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\farmfresh-jsp\web\admin" />
+      <recent name="D:\farmfresh-jsp\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="final_project:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/final_project" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_final_project" />
+      </server-settings>
+      <log_file alias="Tomcat Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/manager.*" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58249" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="final_project:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a044964f-9cb4-4e0d-a275-b83095cd9fc8" name="Default Changelist" comment="" />
+      <created>1573552487611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573552487611</updated>
+      <workItem from="1573552490686" duration="1012000" />
+      <workItem from="1573811235333" duration="601000" />
+      <workItem from="1573816978011" duration="995000" />
+      <workItem from="1574063419978" duration="3513000" />
+      <workItem from="1574132591800" duration="9738000" />
+      <workItem from="1574392107362" duration="983000" />
+      <workItem from="1574408355412" duration="10146000" />
+      <workItem from="1574470815632" duration="4067000" />
+      <workItem from="1574478370537" duration="3303000" />
+      <workItem from="1574487716961" duration="1677000" />
+      <workItem from="1574504091323" duration="3168000" />
+      <workItem from="1574519559140" duration="6778000" />
+      <workItem from="1574526513568" duration="1685000" />
+      <workItem from="1574528255280" duration="4094000" />
+      <workItem from="1574562442258" duration="8157000" />
+      <workItem from="1574570692779" duration="6734000" />
+      <workItem from="1574666328193" duration="14732000" />
+      <workItem from="1574770682994" duration="238000" />
+      <workItem from="1574778705979" duration="9932000" />
+      <workItem from="1574830231328" duration="3626000" />
+      <workItem from="1574910567932" duration="1088000" />
+      <workItem from="1574911712752" duration="2723000" />
+      <workItem from="1574918110626" duration="7332000" />
+      <workItem from="1574925853706" duration="982000" />
+      <workItem from="1574931902921" duration="15378000" />
+      <workItem from="1574947712311" duration="1520000" />
+      <workItem from="1574996080829" duration="675000" />
+      <workItem from="1574997055434" duration="16819000" />
+      <workItem from="1575170641968" duration="27242000" />
+      <workItem from="1575258063302" duration="483000" />
+      <workItem from="1575264725948" duration="2614000" />
+      <workItem from="1575272620076" duration="11020000" />
+      <workItem from="1575292640938" duration="785000" />
+      <workItem from="1575295912837" duration="2612000" />
+      <workItem from="1575364627407" duration="15567000" />
+      <workItem from="1575387764433" duration="6021000" />
+      <workItem from="1575436181271" duration="6362000" />
+      <workItem from="1575463078225" duration="7174000" />
+      <workItem from="1575511050974" duration="12804000" />
+      <workItem from="1575531641456" duration="3706000" />
+      <workItem from="1575550360678" duration="7793000" />
+      <workItem from="1575618611668" duration="11293000" />
+      <workItem from="1575640727947" duration="6979000" />
+      <workItem from="1575775697016" duration="24390000" />
+      <workItem from="1575812582470" duration="105000" />
+      <workItem from="1575819442353" duration="836000" />
+      <workItem from="1575885267384" duration="3851000" />
+      <workItem from="1575958920213" duration="13869000" />
+      <workItem from="1575988510064" duration="2157000" />
+      <workItem from="1576023740148" duration="6656000" />
+      <workItem from="1576044203823" duration="2541000" />
+      <workItem from="1576072704579" duration="6694000" />
+      <workItem from="1576153684336" duration="1623000" />
+      <workItem from="1576156042016" duration="38000" />
+      <workItem from="1576209390267" duration="1711000" />
+      <workItem from="1576211200979" duration="1776000" />
+      <workItem from="1576213036217" duration="1740000" />
+      <workItem from="1576214842748" duration="486000" />
+      <workItem from="1576217331052" duration="1614000" />
+      <workItem from="1576219167831" duration="1761000" />
+      <workItem from="1576221005249" duration="1783000" />
+      <workItem from="1576222835084" duration="1788000" />
+      <workItem from="1576224799546" duration="1829000" />
+      <workItem from="1576244130965" duration="1592000" />
+      <workItem from="1576245812730" duration="1781000" />
+      <workItem from="1576247757958" duration="1754000" />
+      <workItem from="1576249840089" duration="1784000" />
+      <workItem from="1576286287868" duration="1647000" />
+      <workItem from="1576288005766" duration="1769000" />
+      <workItem from="1576289857219" duration="1787000" />
+      <workItem from="1576291732118" duration="1825000" />
+      <workItem from="1576293758642" duration="1779000" />
+      <workItem from="1576295648888" duration="1777000" />
+      <workItem from="1576297514324" duration="625000" />
+      <workItem from="1576315404865" duration="1684000" />
+      <workItem from="1576317132312" duration="1789000" />
+      <workItem from="1576325538867" duration="1666000" />
+      <workItem from="1576327860035" duration="1768000" />
+      <workItem from="1576329830604" duration="5590000" />
+      <workItem from="1576380875055" duration="4210000" />
+      <workItem from="1576464609148" duration="7801000" />
+      <workItem from="1576487676761" duration="164000" />
+      <workItem from="1576501318368" duration="589000" />
+      <workItem from="1576502675706" duration="1866000" />
+      <workItem from="1576557474796" duration="8109000" />
+      <workItem from="1576581462340" duration="4760000" />
+      <workItem from="1576586738866" duration="904000" />
+      <workItem from="1576590770306" duration="15990000" />
+      <workItem from="1576649893324" duration="3858000" />
+      <workItem from="1576676240189" duration="17351000" />
+      <workItem from="1576728837153" duration="7840000" />
+      <workItem from="1576736849665" duration="319000" />
+      <workItem from="1576745797719" duration="1361000" />
+      <workItem from="1576801234165" duration="1293000" />
+      <workItem from="1577450677526" duration="2842000" />
+      <workItem from="1577493418544" duration="13549000" />
+      <workItem from="1577586914871" duration="6434000" />
+      <workItem from="1577627977516" duration="6454000" />
+      <workItem from="1577841184284" duration="3834000" />
+      <workItem from="1577886198042" duration="10947000" />
+      <workItem from="1577940676104" duration="990000" />
+      <workItem from="1578558857541" duration="12869000" />
+      <workItem from="1578578459257" duration="3287000" />
+      <workItem from="1578581790193" duration="7737000" />
+      <workItem from="1578617879403" duration="5498000" />
+      <workItem from="1580043283388" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="pages.hashIsZero" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/farmfresh_jsp$Tomcat.ic" NAME="Tomcat Coverage Results" MODIFIED="1574948456209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

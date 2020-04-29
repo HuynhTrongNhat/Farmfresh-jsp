@@ -1,0 +1,128 @@
+/* 
+*/
+footer {
+    background: url(../img/footer-bkg.jpg);
+    padding: 48px 0;
+}
+
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__item {
+    border-right: 1px solid #d3d3d3;
+    width: 25%;
+    height: 220px;
+    padding: 0 8px;
+}
+
+.footer__item:last-child {
+    border: none;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.footer__item > h1 {
+    text-align: center;
+}
+
+ul.store__item {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+ul.store__item > li {
+    padding: 4px 0;
+    color: #262626;
+    transition: all .35s;
+}
+
+ul.store__item > li:hover i {
+    color: #7fba00;
+}
+
+.footer__input {
+    padding: 24px 0;
+    position: relative;
+}
+
+.footer__input > input {
+    width: 100%;
+    border-radius: 20px;
+    padding: 8px 12px;
+    border: none;
+    box-shadow: 3px 3px 3px gray;
+}
+
+.footer__input > i {
+    position: absolute;
+    right: 8px;
+    top: 36px;
+}
+
+.list-icon__footer {
+    display: flex;
+}
+
+.list-icon__footer .icon__item {
+    position: relative;
+    display: inline-block;
+    float: left;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px gray;
+    margin: 10px;
+    overflow: hidden;
+}
+
+.list-icon__footer .icon__item > i {
+    color: #262626;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    transition: all .5s ease;
+}
+
+.list-icon__footer .icon__item:hover > i {
+    transform: translate(-50%, -50%) scale(1.5);
+    color: white;
+}
+
+.list-icon__footer .icon__item:before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: -100%;
+    transition: all .5s ease;
+    background: #7fba00;
+}
+
+.list-icon__footer .icon__item:hover:before {
+    left: 0;
+}
+
+.footer-bottom {
+    padding: 48px 0 0 0;
+}
+
+.footer-bottom__container {
+    border-top: 1px solid #d3d3d3;
+    display: flex;
+    padding: 24px 0 0 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul.bank-card__list__container {
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    /* background-color: blue; */
+}
